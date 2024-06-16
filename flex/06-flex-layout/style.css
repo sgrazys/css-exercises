@@ -45,7 +45,8 @@ button {
 	padding: 6px 15px;
 }
 
-.header {
+.header,
+.footer {
 	display: flex;
 	justify-content: space-between;
 	padding: 0 18px;
@@ -62,8 +63,4 @@ button {
 
 .footer {
 	background-color: #eee;
-
-	display: flex;
-	justify-content: space-between;
-	padding: 0 18px;
 }
